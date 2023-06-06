@@ -1,0 +1,1 @@
+GIT is version control system. It is of 2 types. Centralised and Distributed version controlling. 
